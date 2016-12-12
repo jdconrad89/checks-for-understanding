@@ -17,7 +17,7 @@ Note: When you're done, submit a PR.
 6. At a basic level, what does cURL allow you to do?
   it allows you to send information using URL syntax?
 7. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
- Students have many teachers and teachers have many students. See picture down in comments
+ Students have many teachers and teachers have many students.
 9. Describe the relationship between a foreign key on one table and a primary key on another table.
   A foreign key is a reference in a table to the primary key in another table. It is how the key with the foreign key has       access to the information in the other table where the primary key is.
 10. What are the parts of an HTTP response?

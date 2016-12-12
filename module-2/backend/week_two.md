@@ -40,7 +40,7 @@ Note: When you're done, submit a PR.
 7. What case does JSON (and JavaScript) use for multi-word variables?
 8. What case does Ruby use for multi-word variables?
 9. In a database that's holding schools and teachers, what will be the relationship between schools and teachers?
-  schools will have many teachers but a teacher will belong to only one school.
+    schools will have many teachers but a teacher will belong to only one school.
 10. In the same database, what will you need to do to create this relationship (draw a schema diagram)?
 11. Give an example of when you might want to store information besides ids on a join table.
 12. Describe and diagram the relationship between patients and doctors.
